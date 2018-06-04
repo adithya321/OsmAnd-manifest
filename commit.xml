@@ -13,9 +13,9 @@
 	<project path="build" name="osmandapp/OsmAnd-build.git">
 		<copyfile src="ide.cmake" dest="CMakeLists.txt" />
 	</project>
-	<project path="core" name="osmandapp/OsmAnd-core.git" />
-	<project path="core-legacy" name="osmandapp/OsmAnd-core.git" revision="legacy_core" />
-	<project path="android" name="osmandapp/Osmand.git" />
-	<project path="misc" name="osmandapp/OsmAnd-misc.git" />
+	<project path="core" name="adithya321/OsmAnd-core.git" />
+	<project path="core-legacy" name="adithya321/OsmAnd-core.git" revision="legacy_core" />
+	<project path="android" name="adithya321/Osmand.git" />
+	<project path="misc" name="adithya321/OsmAnd-misc.git" />
 	<project path="resources" name="adithya321/OsmAnd-resources.git" />
 </manifest>
