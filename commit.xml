@@ -10,7 +10,7 @@
 		sync-j="4" />
 
 	<!-- OsmAnd -->
-	<project path="build" name="osmandapp/OsmAnd-build.git">
+	<project path="build" name="adithya321/OsmAnd-build.git">
 		<copyfile src="ide.cmake" dest="CMakeLists.txt" />
 	</project>
 	<project path="core" name="adithya321/OsmAnd-core.git" />
